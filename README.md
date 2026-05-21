@@ -1,8 +1,8 @@
 # Hey, I'm Bradley 👋
 
-I'm the sole engineer at **[voV1](https://vov1.app)** — an AI-native financial reporting platform for wealth advisors and family offices — built through **BYU Sandbox**, a competitive two-semester startup accelerator at the BYU Marriott School of Business.
+I'm the sole engineer at **[Finch](https://www.getfinch.co)** — an AI-native automation and reporting platform for ambulatory surgery centers.
 
-Before voV1, I founded **[QuoteDeck](https://www.myquotedeck.com)**, a B2B SaaS now used by multiple paying small-business clients, and shipped **BetterPlates**, an AI recipe app live on the iOS App Store.
+Before Finch, I founded **[QuoteDeck](https://www.myquotedeck.com)**, a B2B SaaS now used by multiple paying small-business clients, and shipped **BetterPlates**, an AI recipe app live on the iOS App Store.
 
 I ship things end-to-end: ML/AI integration, FastAPI + Postgres backends, React/TypeScript frontends, and the deploy pipelines underneath. Currently a CS: Machine Learning junior at BYU.
 
@@ -10,7 +10,7 @@ I ship things end-to-end: ML/AI integration, FastAPI + Postgres backends, React/
 
 ### 🛠️ What I'm building right now
 
-**[voV1](https://web.sandbox.ing)** — Multi-tenant AI-native financial reporting. FastAPI + Supabase (Postgres, Auth, RLS), Next.js + TanStack Query frontend, schema-first dashboards via Zod → JSON Schema, AI-assisted CSV ingestion with human review.
+**[Finch](https://www.getfinch.co)** — Multi-tenant AI-native automations and reporting for ambulatory surgery centers.. FastAPI + Supabase (Postgres, Auth, RLS), Next.js + TanStack Query frontend, schema-first dashboards via Zod → JSON Schema, AI-assisted inventory ingestion with human review.
 
 **[QuoteDeck](https://www.myquotedeck.com)** — Embeddable AI quoting widget + lead-gen portal for SMBs. React/TS widget, FastAPI backend, OpenAI-driven conversation flow, integrated with SendGrid, Twilio, and Google Ads conversion tracking.
 
