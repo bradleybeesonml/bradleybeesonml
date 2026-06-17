@@ -10,7 +10,7 @@ I ship things end-to-end: ML/AI integration, FastAPI + Postgres backends, React/
 
 ### 🛠️ What I'm building right now
 
-**[Finch](https://www.getfinch.co)** — Multi-tenant AI-native automations and reporting for ambulatory surgery centers.. FastAPI + Supabase (Postgres, Auth, RLS), Next.js + TanStack Query frontend, schema-first dashboards via Zod → JSON Schema, AI-assisted inventory ingestion with human review.
+**[Finch](https://www.getfinch.co)** — Multi-tenant AI-native automations and reporting for ambulatory surgery centers. FastAPI + Supabase (Postgres, Auth, RLS), Next.js + TanStack Query frontend, schema-first dashboards via Zod → JSON Schema, AI-assisted inventory ingestion with human review.
 
 **[QuoteDeck](https://www.myquotedeck.com)** — Embeddable AI quoting widget + lead-gen portal for SMBs. React/TS widget, FastAPI backend, OpenAI-driven conversation flow, integrated with SendGrid, Twilio, and Google Ads conversion tracking.
 
